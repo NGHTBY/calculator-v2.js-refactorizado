@@ -21,3 +21,11 @@ Refactorización completa de una calculadora legacy aplicando principios de inge
 ## 🎯 Demo
 
 ![Calculadora Funcionando](screenshots/calculadora-funcionando.png)
+
+## 📈 Métricas de Calidad
+
+### Auditoría Inicial (Código Legacy)
+![Métricas Antes](screenshots/metrics-antes.png)
+
+### Auditoría Final (Código Refactorizado)  
+![Métricas Después](screenshots/metrics-despues.png)
